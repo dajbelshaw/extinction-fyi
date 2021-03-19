@@ -1,2 +1,2 @@
 # special-system
-Messing about with Hugo
+Messing about with a news site
