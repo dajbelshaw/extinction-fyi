@@ -25,6 +25,7 @@
     --code: #F06292;
     --preformatted: #CCC;
     --disabled: #111;
+    --marked: #DCDCDC;	
 }
 
 /* Dark theme */
@@ -40,6 +41,7 @@
     --code: #F06292;
     --preformatted: #CCC;
     --disabled: #111;
+    --marked: #DCDCDC;	
   }
 
   img, video {
