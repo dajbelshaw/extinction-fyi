@@ -30,7 +30,7 @@
 			<ul class="posts">
 				<xsl:for-each select="./item">
 
-					<li class="posts__post post" style="list-style:none !important;">
+					<li class="posts__post post">
 
 						<h2 class="post__title">
 							 <a href="{ link }" class="post__link">
@@ -39,7 +39,11 @@
 						</h2>
 
 						<p class="post__preview">
-							<xsl:value-of select="description" />&#126;<xsl:value-of select="source" />
+							<xsl:value-of select="description" />
+							&#32;
+							&#40;
+							<xsl:value-of select="source" />
+							&#40;	
 						</p>
 
 					</li>
