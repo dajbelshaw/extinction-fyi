@@ -14,7 +14,7 @@
 				<xsl:value-of select="title" />
 			</title>
 
-			<link rel="shortcut icon" type="image/ico" href="/test/favicon.png" />
+			<link rel="shortcut icon" type="image/ico" href="favicon.png" />
 			<link rel="stylesheet" type="text/css" href="style.css" />
 		</head>
 		<body>
