@@ -40,13 +40,13 @@
 
 					<li class="posts__post post">
 
-						<h2 class="post__title">
+						<p class="post__title">
 							 <a href="{ link }" class="post__link">
 								<xsl:value-of select="title" />
 							 </a>
 							 &#32;
  							&#40;<xsl:value-of select="source" />&#41;
-						</h2>
+						</p>
 
 						<p class="post__preview">
 							<xsl:value-of select="description" />
