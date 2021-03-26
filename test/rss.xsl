@@ -71,7 +71,7 @@
 						</p>
 						
 						<p class="post__date" style="font-size:0.7em !important;">
-							Added: <xsl:value-of select="pubDate" />
+							<xsl:value-of select="pubDate" />
 						</p>
 
 					</li>
