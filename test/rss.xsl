@@ -11,7 +11,7 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 			<title>
-				<img src="fire-earth.webp" alt="fire earth"/><xsl:value-of select="title" /><img src="fire-earth.webp" alt="fire earth"/>
+				<xsl:value-of select="image" /><xsl:value-of select="title" /><xsl:value-of select="image" />
 			</title>
 
 			<link rel="shortcut icon" type="image/ico" href="/favicon.png" />
