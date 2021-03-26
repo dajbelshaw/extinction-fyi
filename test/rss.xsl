@@ -38,7 +38,7 @@
 			<ul class="posts" style="list-style-type: none !important;">
 				<xsl:for-each select="./item">
 
-					<li class="posts__post post" style="padding-top:1.5em !important;">
+					<li class="posts__post post" style="padding-top:1.25em !important;">
 
 						<p class="post__title">
 							 <a href="{ link }" class="post__link">
