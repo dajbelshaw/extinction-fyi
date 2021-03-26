@@ -38,9 +38,9 @@
 							 </a>
 						</h2>
 
-						<p class="post__source">
+						(
 							<xsl:value-of select="source" />
-						</p>	
+						)	
 
 						<p class="post__preview">
 							<xsl:value-of select="description" />
