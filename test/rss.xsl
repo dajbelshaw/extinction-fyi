@@ -51,7 +51,7 @@
 			</ul>
 
 			<p class="cta">
-				<a href="{ link }" class="cta__link">CC0</a>
+				<a href="https://creativecommons.org/choose/zero/" class="cta__link">CC0</a>
 			</p>
 
 		</body>
