@@ -46,9 +46,9 @@
 					<xsl:value-of select="description" />
 				</p>
 		        <nav>
-		  <a href="/">Home</a>
-		  <a href="/about">About</a>
-		  <a href="/faq">FAQ</a>
+		  <a href="/test">Home</a>
+		  <a href="/test/about">About</a>
+		  <a href="/test/faq">FAQ</a>
 		</nav>
 		  </header>
 
