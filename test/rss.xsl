@@ -19,7 +19,7 @@
 		<body>
 
 			<header>
-				<img src="fire-earth.webp" alt="logo" />
+				<img src="/fire-earth.webp" alt="logo" />
 				<h1 class="title">
 					<xsl:value-of select="title" />
 				</h1>
