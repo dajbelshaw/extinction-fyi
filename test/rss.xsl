@@ -34,7 +34,7 @@
 		  </header>
 
 
-			<ul class="posts">
+			<ul class="posts" style="list-style-type: none !important;">
 				<xsl:for-each select="./item">
 
 					<li class="posts__post post">
