@@ -38,15 +38,8 @@
 							 </a>
 						</h2>
 
-						<p class="post__source">
-							<xsl:value-of select="source" />
-						</p>
-
 						<p class="post__preview">
-							<xsl:value-of select="description" />
-              &nbsp;
-
-							<!-- <a href="{ link }" class="post__more">Read more</a> -->
+							<xsl:value-of select="description" />&#126;<xsl:value-of select="source" />
 						</p>
 
 					</li>
