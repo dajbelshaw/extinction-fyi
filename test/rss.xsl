@@ -80,7 +80,7 @@
 			</ul>
 
 			<footer>
-				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0 license</a>. This page is an RSS feed.</a>
+				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0 license</a>. This page is an RSS feed.
 			</footer>
 
 		</body>
