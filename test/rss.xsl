@@ -51,6 +51,8 @@
 		</nav>
 		  </header>
 
+			<atom:link href="https://extinction.fyi/test/index.xml" rel="self" type="application/rss+xml" />
+
 
 			<ul class="posts" style="list-style-type: none !important;">
 				<xsl:for-each select="./item">
