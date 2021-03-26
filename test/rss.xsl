@@ -42,7 +42,7 @@
 					<xsl:value-of select="title" />
 				</h1>
 
-				<p class="description" style="padding-top:0.5em !important;">
+				<p class="description" style="padding-top:0 !important;">
 					<xsl:value-of select="description" />
 				</p>
 		        <nav>
