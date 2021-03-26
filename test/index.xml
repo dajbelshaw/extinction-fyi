@@ -3,7 +3,6 @@
 <?xml-stylesheet type="text/xsl" href="rss.xsl" media="screen" ?>
 <rss version="2.0">
 	<channel>
-		<atom:link href="https://extinction.fyi/test/index.xml" rel="self" type="application/rss+xml" />
 		<image>
   		<url>https://extinction.fyi/test/fire-earth.webp</url>
   		<title>extinction.fyi logo</title>
