@@ -19,14 +19,22 @@
 		</head>
 		<body>
 
-			<h1 class="title">
-				<xsl:value-of select="title" />
-			</h1>
+			<header>
+				<h1 class="title">
+					<xsl:value-of select="title" />
+				</h1>
 
-			<p class="description">
-				<xsl:value-of select="description" />
-			</p>
+				<p class="description">
+					<xsl:value-of select="description" />
+				</p>
+		        <nav>
+		  <a href="/">Home</a>
+		  <a href="/about">About</a>
+		  <a href="/faq">FAQ</a>
+		</nav>
+		  </header>
 
+			
 			<ul class="posts">
 				<xsl:for-each select="./item">
 
