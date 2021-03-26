@@ -3,6 +3,11 @@
 <?xml-stylesheet type="text/xsl" href="rss.xsl" media="screen" ?>
 <rss version="2.0">
 	<channel>
+		<image>
+  		<url>https://extinction.fyi/test/fire-earth.png</url>
+  		<title>extinction.fyi logo</title>
+		<link>https://extinction.fyi</link>
+		</image>
 		<title>extinction.fyi</title>
 		<link>https://extinction.fyi/</link>
  		<description>Documenting the end times</description>
