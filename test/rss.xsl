@@ -14,8 +14,8 @@
 				<xsl:value-of select="title" />
 			</title>
 
-			<link rel="shortcut icon" type="image/ico" href="favicon.png" />
-			<link rel="stylesheet" type="text/css" href="/test/style.css" />
+			<link rel="shortcut icon" type="image/ico" href="/favicon.png" />
+			<link rel="stylesheet" type="text/css" href="/style.css" />
 		</head>
 		<body>
 
@@ -44,12 +44,12 @@
 							 <a href="{ link }" class="post__link">
 								<xsl:value-of select="title" />
 							 </a>
+							 &#32;
+ 							&#40;<xsl:value-of select="source" />&#41;
 						</h2>
 
 						<p class="post__preview">
 							<xsl:value-of select="description" />
-							&#32;
-							&#40;<xsl:value-of select="source" />&#41;
 						</p>
 
 					</li>
