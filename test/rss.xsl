@@ -56,7 +56,7 @@
 				</xsl:for-each>
 			</ul>
 
-			<p class="footer">
+			<p class="footer" align="center">
 				<a href="{ link }" class="footer__link">CC0</a>
 			</p>
 
