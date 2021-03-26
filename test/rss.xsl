@@ -19,6 +19,8 @@
 		<body>
 
 			<header>
+				<!-- Add header image as defined in index.xml -->
+				
 				<xsl:if test="/rss/channel/image">
                     			<a class="head_logo">
                         		<xsl:attribute name="href">
