@@ -14,8 +14,8 @@
 				<xsl:value-of select="title" />
 			</title>
 
-			<link rel="shortcut icon" type="image/ico" href="/favicon.png" />
-			<link rel="stylesheet" type="text/css" href="/test/style.css" />
+			<link rel="shortcut icon" type="image/ico" href="favicon.png" />
+			<link rel="stylesheet" type="text/css" href="style.css" />
 		</head>
 		<body>
 
@@ -43,7 +43,7 @@
 							&#32;
 							&#40;
 							<xsl:value-of select="source" />
-							&#40;	
+							&#40;
 						</p>
 
 					</li>
