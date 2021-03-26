@@ -38,10 +38,14 @@
 							 </a>
 						</h2>
 
+						<p class="post__source">
+							<xsl:value-of select="source" />
+						</p>
+
 						<p class="post__preview">
 							<xsl:value-of select="description" />
-              &nbsp;&mdash;&nbsp;
-							<xsl:value-of select="source" />
+              &nbsp;
+
 							<!-- <a href="{ link }" class="post__more">Read more</a> -->
 						</p>
 
@@ -51,7 +55,7 @@
 			</ul>
 
 			<p class="cta">
-				<a href="https://creativecommons.org/choose/zero/" class="cta__link">CC0</a>
+				<a href="{ link }" class="cta__link">CC0</a>
 			</p>
 
 		</body>
