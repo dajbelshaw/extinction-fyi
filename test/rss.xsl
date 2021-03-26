@@ -19,6 +19,16 @@
 		<body>
 
 			<header>
+				<p>
+					<img>
+                        			<xsl:attribute name="src">
+                            			<xsl:value-of select="/rss/channel/image/url" />
+                        			</xsl:attribute>
+                        			<xsl:attribute name="title">
+                            			<xsl:value-of select="/rss/channel/title" />
+                        			</xsl:attribute>
+                        		</img>
+				</p>
 				<h1 class="title">
 					<xsl:value-of select="title" />
 				</h1>
