@@ -24,7 +24,7 @@
                         		<xsl:attribute name="href">
                             		<xsl:value-of select="/rss/channel/link" />
                         		</xsl:attribute>
-                        		<img>
+                        		<img width="200px">
                         		<xsl:attribute name="src">
                             		<xsl:value-of select="/rss/channel/image/url" />
                        		 	</xsl:attribute>
