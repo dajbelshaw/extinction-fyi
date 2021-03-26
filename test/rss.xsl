@@ -15,7 +15,7 @@
 			</title>
 
 			<link rel="shortcut icon" type="image/ico" href="/test/favicon.png" />
-			<link rel="stylesheet" type="text/css" href="/test/style.css" />
+			<link rel="stylesheet" type="text/css" href="style.css" />
 		</head>
 		<body>
 
@@ -34,7 +34,7 @@
 		</nav>
 		  </header>
 
-			
+
 			<ul class="posts">
 				<xsl:for-each select="./item">
 
