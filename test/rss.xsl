@@ -15,6 +15,8 @@
 			</title>
 			<link rel="icon" href="favicon.ico" type="image/x-icon" />
 			<link rel="stylesheet" type="text/css" href="/style.css" class="image" />
+			<link rel="alternate" type="application/atom+xml" title="Feed for extinction.fyi" href="http://extinction.fyi/test/index.xml" />
+
 		</head>
 		<body>
 
@@ -74,7 +76,7 @@
 			</ul>
 
 			<footer>
-				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0</a>
+				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0. This page is an RSS feed.</a>
 			</footer>
 
 		</body>
