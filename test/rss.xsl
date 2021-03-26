@@ -37,7 +37,7 @@
 			<ul class="posts" style="list-style-type: none !important;">
 				<xsl:for-each select="./item">
 
-					<li class="posts__post post">
+					<li class="posts__post post" style="padding-top:1.5em !important;">
 
 						<p class="post__title">
 							 <a href="{ link }" class="post__link">
@@ -52,7 +52,6 @@
 						</p>
 
 					</li>
-					<hr />
 
 				</xsl:for-each>
 			</ul>
