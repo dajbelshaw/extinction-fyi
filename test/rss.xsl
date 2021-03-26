@@ -14,12 +14,12 @@
 				<xsl:value-of select="title" />
 			</title>
 
-			<link rel="stylesheet" type="text/css" href="/style.css" />
+			<link rel="stylesheet" type="text/css" href="/style.css" class="image" />
 		</head>
 		<body>
 
 			<header>
-				<img src="/fire-earth.png" alt="logo" />
+				<img width="100px" src="/fire-earth.webp" />
 				<h1 class="title">
 					<xsl:value-of select="title" />
 				</h1>
