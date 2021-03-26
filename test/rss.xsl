@@ -9,12 +9,21 @@
 		<head>
 			<meta charset="utf-8" />
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
+			<img>
+			    <xsl:attribute name="src">
+			    <xsl:value-of select="/rss/channel/image/url"/>
+			    </xsl:attribute>
+			    <xsl:attribute name="title">
+			    <xsl:value-of select="/rss/channel/title"/>
+			    </xsl:attribute>
+			</img>
 
 			<title>
-				<xsl:value-of select="image" /><xsl:value-of select="title" /><xsl:value-of select="image" />
+				<xsl:value-of select="title" />
 			</title>
 
-			<link rel="shortcut icon" type="image/ico" href="/favicon.png" />
+			<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 			<link rel="stylesheet" type="text/css" href="/style.css" />
 		</head>
 		<body>
