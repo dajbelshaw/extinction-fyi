@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/xsl" href="rss.xsl" media="screen" ?>
 <rss version="2.0">
 	<channel>
-		<title>💀 extinction.fyi 💀</title>
+		<title><img src="fire-earth.webp" /> extinction.fyi <img src="fire-earth.webp" /></title>
 		<link>https://extinction.fyi/</link>
  		<description>Documenting the end times</description>
 		<category>Climate change/Climate emergency/Climate action</category>
