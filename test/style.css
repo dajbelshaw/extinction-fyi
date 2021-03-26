@@ -279,7 +279,7 @@ table caption {
 ol,
 ul {
 	padding-left: 0;
-  list-style-type: none;
+  	list-style: none;
 }
 
 /* Format forms */
