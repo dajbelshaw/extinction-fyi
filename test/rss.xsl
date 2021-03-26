@@ -38,13 +38,10 @@
 							 </a>
 						</h2>
 
-						(
-							<xsl:value-of select="source" />
-						)	
-
 						<p class="post__preview">
 							<xsl:value-of select="description" />
-
+              &nbsp;
+							(<xsl:value-of select="source" />)
 							<!-- <a href="{ link }" class="post__more">Read more</a> -->
 						</p>
 
