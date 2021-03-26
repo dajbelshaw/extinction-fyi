@@ -19,7 +19,6 @@
 		<body>
 
 			<header>
-				<img width="100px" src="/fire-earth.webp" />
 				<h1 class="title">
 					<xsl:value-of select="title" />
 				</h1>
