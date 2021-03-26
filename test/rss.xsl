@@ -73,9 +73,9 @@
 				</xsl:for-each>
 			</ul>
 
-			<p class="footer" align="center">
-				<a href="{ link }" class="footer__link">CC0</a>
-			</p>
+			<footer>
+				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0</a>
+			</footer>
 
 		</body>
 		</html>
