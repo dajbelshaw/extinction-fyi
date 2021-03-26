@@ -60,7 +60,9 @@
 
 						<p class="post__title">
 							 <a href="{ link }" class="post__link">
-								<xsl:value-of select="title" />
+								<strong>
+									<xsl:value-of select="title" />
+								 </strong>
 							 </a>
 							 &#32;
  							&#40;<xsl:value-of select="source" />&#41;
