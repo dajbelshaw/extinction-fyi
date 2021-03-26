@@ -15,7 +15,7 @@
 			</title>
 
 			<link rel="shortcut icon" type="image/ico" href="favicon.png" />
-			<link rel="stylesheet" type="text/css" href="style.css" />
+			<link rel="stylesheet" type="text/css" href="/test/style.css" />
 		</head>
 		<body>
 
@@ -57,8 +57,8 @@
 				</xsl:for-each>
 			</ul>
 
-			<p class="cta">
-				<a href="{ link }" class="cta__link">CC0</a>
+			<p class="footer">
+				<a href="{ link }" class="footer__link">CC0</a>
 			</p>
 
 		</body>
