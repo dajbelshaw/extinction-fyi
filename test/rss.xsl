@@ -52,6 +52,7 @@
 						</p>
 
 					</li>
+					<hr />
 
 				</xsl:for-each>
 			</ul>
