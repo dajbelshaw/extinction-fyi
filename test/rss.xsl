@@ -12,8 +12,9 @@
 
 			<title>
 				<xsl:value-of select="title" />
-			</title>
-			<link rel="icon" href="favicon.ico" type="image/x-icon" />
+			</title>    
+			<link rel="shortcut icon" href="/test/favicon.ico" type="image/x-icon">
+    			<link rel="icon" href="/test/favicon.ico" type="image/x-icon">
 			<link rel="stylesheet" type="text/css" href="/style.css" class="image" />
 			<link rel="alternate" type="application/atom+xml" title="Feed for extinction.fyi" href="http://extinction.fyi/test/index.xml" />
 
