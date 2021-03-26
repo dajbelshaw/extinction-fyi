@@ -41,9 +41,7 @@
 						<p class="post__preview">
 							<xsl:value-of select="description" />
 							&#32;
-							&#40;
-							<xsl:value-of select="source" />
-							&#40;
+							&#40;<xsl:value-of select="source" />&#41;
 						</p>
 
 					</li>
