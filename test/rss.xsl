@@ -46,9 +46,9 @@
 					<xsl:value-of select="description" />
 				</p>
 		        <nav>
-		  <a href="/test">Home</a>
-		  <a href="/test/about">About</a>
-		  <a href="/test/faq">FAQ</a>
+		  <a href="/">Home</a>
+		  <a href="/about">About</a>
+		  <a href="/faq">FAQ</a>
 		</nav>
 		  </header>
 
@@ -76,7 +76,7 @@
 			</ul>
 
 			<footer>
-				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0. This page is an RSS feed.</a>
+				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0 license. This page is an RSS feed.</a>
 			</footer>
 
 		</body>
