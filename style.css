@@ -42,6 +42,7 @@ html {
 
 /* Make the body a nice central block */
 body {
+  font-family: var(--sans-font);
   color: var(--text);
   background: var(--bg);
   font-size: var(--base-fontsize);
