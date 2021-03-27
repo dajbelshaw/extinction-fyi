@@ -15,32 +15,9 @@
 			</title>
 			<link rel="stylesheet" type="text/css" href="/style.css" media="screen" />
 			<link rel="alternate" type="application/atom+xml" title="Feed for extinction.fyi" href="http://extinction.fyi/index.xml" />
-
-
-<!-- HTML Meta Tags -->
-<title>extinction.fyi</title>
-<meta name="description" content="Documenting the climate emergency
-">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://extinction.fyi">
-<meta property="og:type" content="website">
-<meta property="og:title" content="extinction.fyi">
-<meta property="og:description" content="Documenting the climate emergency
-">
-<meta property="og:image" content="https://raw.githubusercontent.com/dajbelshaw/extinction-fyi/main/img/social.png">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="extinction.fyi">
-<meta property="twitter:url" content="https://extinction.fyi">
-<meta name="twitter:title" content="extinction.fyi">
-<meta name="twitter:description" content="Documenting the climate emergency
-">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/dajbelshaw/extinction-fyi/main/img/social.png">
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
-
+			
+			<title>extinction.fyi</title>
+			<meta name="description" content="Documenting the climate emergency" />
 
 		</head>
 		<body>
