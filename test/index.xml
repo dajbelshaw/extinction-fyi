@@ -11,7 +11,19 @@
 		<title>extinction.fyi</title>
 		<link>https://extinction.fyi/</link>
  		<description>Documenting the end times</description>
-		<category>Climate change/Climate emergency/Climate action</category>	
+		<category>Climate change/Climate emergency/Climate action</category>
+		
+<!--
+		<item>
+			<title></title>
+			<link></link>
+			<source url=""></source>
+			<description></description>
+			<pubDate></pubDate>
+		</item>
+-->
+		
+		
 		<item>
 			<title>Pollution from fossil fuel combustion deadlier than previously thought</title>
 			<link>https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought</link>
@@ -54,6 +66,8 @@
 			<description>Mel Evans from Greenpeace said: “This is a colossal failure. The UK will make a fool of itself in the run-up to hosting the COP26 global climate talks if our energy minister signs off on new oil and gas licences that serve to rip up the Paris Agreement (the world deal to hold global temperature rise to 1.5C)."</description>
 			<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
   		</item>
+		
+		
 		<item>
 			<title>Big banks’ trillion-dollar finance for fossil fuels ‘shocking’, says report</title>
 			<link>https://www.theguardian.com/environment/2021/mar/24/big-banks-trillion-dollar-finance-for-fossil-fuels-shocking-says-report</link>
@@ -62,41 +76,27 @@
 			<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
 		</item>
 		<item>
-			<title></title>
-			<link></link>
-			<source url=""></source>
-			<description></description>
-			<pubDate></pubDate>
+			<title>Unpaid environmental damages from fossil fuels are a $600B annual subsidy</title>
+			<link>https://arstechnica.com/science/2021/03/unpaid-environmental-damages-from-fossil-fuels-are-a-600b-annual-subsidy</link>
+			<source url="https://arstechnica.com/science/2021/03/unpaid-environmental-damages-from-fossil-fuels-are-a-600b-annual-subsidy">Ars Technica</source>
+			<description>The producers' slice of the pie comes in at $71 billion in 2018 and averaged $62 billion over the study period. Gasoline was the largest portion of that, averaging $25 billion, with coal and natural gas varying with the changing usage pattern. Here, the split was quite different, with gasoline and diesel coming in at under $50 billion, natural gas at about $20 billion, and coal at about $10 billion.</description>
+			<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
 		</item>
 		<item>
-			<title></title>
-			<link></link>
-			<source url=""></source>
-			<description></description>
-			<pubDate></pubDate>
+			<title>Ending Fossil Fuel Subsidies the Wrong Way Could End Up Hurting the Poor</title>
+			<link>https://truthout.org/articles/elite-led-efforts-to-end-fossil-fuel-subsidies-have-a-hidden-neoliberal-agenda</link>
+			<source url="https://truthout.org/articles/elite-led-efforts-to-end-fossil-fuel-subsidies-have-a-hidden-neoliberal-agenda">Truthout</source>
+			<description>If the dollar value of subsidies has indeed been inflated for political and ideological purposes, then the same can be said of the emissions reductions estimates that derive from them. The IMF maintains that, if users paid the “full price” for fossil-based energy, consumption would fall and a more efficient use of energy would eventually follow. But the relationship between prices, fossil fuel use, and emissions reductions is based on what economists call “elasticities.” Research has shown that the “price-demand ratio” can be quite pronounced when consumers have alternative energy options. But when alternatives don’t exist—which is often the case—increases in prices produce a “low to moderate” reduction in demand. According to the IMF, “Consistent, country-level models of how fossil fuel use responds to price reform are not yet available on a wide scale.” In other words, the IMF’s assertion that “getting energy prices right” will dramatically curtail energy use is politically convenient, but it is not always supported by the data.</description>
+			<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
 		</item>
 		<item>
-			<title></title>
-			<link></link>
-			<source url=""></source>
-			<description></description>
-			<pubDate></pubDate>
+			<title>JP Morgan warns of end to human life in climate report</title>
+			<link>https://www.telegraph.co.uk/environment/2020/02/21/jp-morgan-warns-end-human-life-leaked-climate-report</link>
+			<source url="https://www.telegraph.co.uk/environment/2020/02/21/jp-morgan-warns-end-human-life-leaked-climate-report">The Telegraph</source>
+			<description>According to JP Morgan's research, titled <em>Risky business: the climate and the macroeconomy</em>, the impact of climate change will be broad and devastating. The economists call on world leaders to introduce a global carbon tax to prevent a meltdown, saying no other measure is likely to be enough.</description>
+			<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
 		</item>
-		<item>
-			<title></title>
-			<link></link>
-			<source url=""></source>
-			<description></description>
-			<pubDate></pubDate>
-		</item>
-		<item>
-			<title></title>
-			<link></link>
-			<source url=""></source>
-			<description></description>
-			<pubDate></pubDate>
-		</item>
-
+		
 
 		
 	</channel>
