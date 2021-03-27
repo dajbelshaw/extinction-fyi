@@ -13,9 +13,9 @@
 			<title>
 				<xsl:value-of select="title" />
 			</title>
-			<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="/style.css" media="screen" />
 			<link rel="alternate" type="application/atom+xml" title="Feed for extinction.fyi" href="http://extinction.fyi/index.xml" />
-			
+
 			<title>extinction.fyi</title>
 			<meta name="description" content="Documenting the climate emergency" />
 
