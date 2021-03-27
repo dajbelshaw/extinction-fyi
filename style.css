@@ -36,7 +36,7 @@
 
 html {
   /* Set the font globally */
-  font-family: sans-serif;
+  font-family: var(--sans-font);
   font-size: 16px;
 }
 
