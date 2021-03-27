@@ -20,7 +20,7 @@
 			<meta name="description" content="Documenting the climate emergency" />
 
 		</head>
-		<body style="font-family:sans-serif !important;">
+		<body>
 
 			<header>
 				<!-- Add header image as defined in index.xml -->
