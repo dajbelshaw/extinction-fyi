@@ -61,8 +61,8 @@
 								<strong>
 									<xsl:value-of select="title" />
 								 </strong>
-							 </a>
-							 &#32;
+							 </a><br>
+							 
  							&#40;<xsl:value-of select="source" />&#41;
 						</p>
 
