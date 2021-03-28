@@ -55,7 +55,7 @@
 		  </header>
 
 			<ul class="posts" style="list-style-type: none !important;">
-				<xsl:for-each select="./item[position() &lt;= 3]">
+				<xsl:for-each select="./item[position() &lt;= 10]">
 
 					<li class="posts__post post" style="padding-top:1.25em !important;">
 
