@@ -82,7 +82,7 @@
 			</ul>
 
 			<footer>
-				<a href="https://creativecommons.org/choose/zero/" class="footer__link">CC0 license</a>. This page is an RSS feed.
+ 			   	<a href="https://github.com/dajbelshaw/extinction-fyi">Open source</a> license. Home page is an RSS feed.
 			</footer>
 
 		</body>
