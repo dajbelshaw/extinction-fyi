@@ -51,7 +51,8 @@
 		  <a href="/">Home</a>
 		  <a href="/about">About</a>
 		  <a href="/faq">FAQ</a>
-		</nav>
+		  <a href="/subscribe">Subscribe</a>
+			</nav>
 		  </header>
 
 			<ul class="posts" style="list-style-type: none !important;">
