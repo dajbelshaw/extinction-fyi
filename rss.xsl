@@ -83,7 +83,7 @@
 			</ul>
 
 			<footer>
- 			   	<a href="https://github.com/dajbelshaw/extinction-fyi">Open source</a>. This page is an RSS feed.
+ 			   	<a href="https://github.com/dajbelshaw/extinction-fyi">Open source</a>
 			</footer>
 
 		</body>
